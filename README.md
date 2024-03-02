@@ -1,6 +1,7 @@
-# Layouts - AboutMe app
+# Layouts - AboutMe app Using ComposeUi
 
 This is the first toy app for lesson 2 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
+This is re-written using the composeUi. See the branches for solutions in compose UI.
 
 ## AboutMe
 
@@ -17,7 +18,7 @@ This app demonstrates the following views and techniques:
 * ImageView
 * ScrollView
 * Setting multiple click handlers programmatically
-* Using data binding for views to improve perforkance and eliminate findViewById
+* Using data binding for views to improve performance and eliminate findViewById
 
 ## Screenshots
 
